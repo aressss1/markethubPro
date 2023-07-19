@@ -39,7 +39,7 @@ const variantMap: Record<ApiAlertProps["variant"], BadgeProps["variant"]> = {
 
   return (
     <Alert>
-      <Server className="h-4 w-4" />
+      <Server className="h-4 w-4 mt-[3px]" />
       <AlertTitle className="flex items-center gap-x-2 ml-5">
         {title}
         <Badge variant={variantMap[variant]}>
