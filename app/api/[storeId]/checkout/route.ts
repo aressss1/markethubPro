@@ -20,7 +20,6 @@ export async function POST(
   { params }: { params: { storeId: string } }
 ) {
 
-  console.log("enter")
 
   const { productIds } = await req.json();
 
@@ -36,11 +35,9 @@ export async function POST(
     }
   });
 
-  console.log(products)
 
   const line_items: Stripe.Checkout.SessionCreateParams.LineItem[] = [];
 
-  console.log('1')
 
   products.forEach((product) => {
     line_items.push({
@@ -56,7 +53,6 @@ export async function POST(
   });
 
   
-  console.log('2')
 
   const order = await prismadb.order.create({
     data: {
@@ -74,7 +70,6 @@ export async function POST(
     }
   });
 
-  console.log(order)
 
 
   const session = await stripe.checkout.sessions.create({
@@ -91,7 +86,6 @@ export async function POST(
     },
   });
 
-  console.log(session)
 
   return NextResponse.json({ url: session.url }, {
     headers: corsHeaders
