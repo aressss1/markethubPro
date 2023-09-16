@@ -1,7 +1,6 @@
 # Full Stack E-Commerce Admin Dashboard + CMS
 
 ## Key Features
-  Key Features:
 
 +    used Shadcn UI for the Admin!
 +    Our admin dashboard is going to serve as both CMS, Admin and API!
@@ -29,7 +28,7 @@
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-admin.git
+git clone https://github.com/aressss1/ecommerce-admin.git
 ```
 
 ### Install packages
