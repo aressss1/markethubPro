@@ -103,21 +103,4 @@ Running commands with npm `npm run [command]`
 ![Screenshot (162)](https://github.com/aressss1/ecommerce-admin/assets/127649710/96a81fa2-47b8-49d1-a45d-0ea2b795b1fb)
 
 
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-
-
-
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
