@@ -84,23 +84,12 @@ Running commands with npm `npm run [command]`
 | `dev`           | Starts a development instance of the app |
 
 ## Preview
-![Screenshot (146)](https://github.com/aressss1/ecommerce-admin/assets/127649710/eb786e2b-19fd-46c0-aaf4-7873c28948fa)
-![Screenshot (147)](https://github.com/aressss1/ecommerce-admin/assets/127649710/62431b74-4f29-4561-a492-18b954028ac9)
-![Screenshot (148)](https://github.com/aressss1/ecommerce-admin/assets/127649710/e0bab263-26b7-4c46-83be-e9bc5651dfc8)
-![Screenshot (165)](https://github.com/aressss1/ecommerce-admin/assets/127649710/eddb86c6-23a6-4938-8d14-9360111afab5)
-![Screenshot (149)](https://github.com/aressss1/ecommerce-admin/assets/127649710/39690afa-8f0c-4cb6-84a1-5ed667d4be21)
-![Screenshot (150)](https://github.com/aressss1/ecommerce-admin/assets/127649710/68fedcce-6bbb-45e2-8f29-235d04ecda76)
-![Screenshot (152)](https://github.com/aressss1/ecommerce-admin/assets/127649710/3925dbe9-dd8d-48b4-b0ab-ec9264cbcca8)
-![Screenshot (153)](https://github.com/aressss1/ecommerce-admin/assets/127649710/b6e7c26c-0838-48ab-b3ad-88747b9e6f7c)
-![Screenshot (154)](https://github.com/aressss1/ecommerce-admin/assets/127649710/25399c41-e5e5-48dd-a806-baa78411bbcb)
-![Screenshot (164)](https://github.com/aressss1/ecommerce-admin/assets/127649710/20b5480b-b7d6-4bf9-923d-051993b4e42b)
-![Screenshot (156)](https://github.com/aressss1/ecommerce-admin/assets/127649710/3600849a-2873-4bef-9161-7750cb9dd924)
-![Screenshot (157)](https://github.com/aressss1/ecommerce-admin/assets/127649710/031fcb95-cc13-4475-9ffe-fda8445fd19c)
-![Screenshot (158)](https://github.com/aressss1/ecommerce-admin/assets/127649710/d56ec433-13a0-4fc7-93ad-02971ab94da0)
-![Screenshot (159)](https://github.com/aressss1/ecommerce-admin/assets/127649710/70b86b78-933c-45c3-a306-9d7b0e523cfc)
-![Screenshot (160)](https://github.com/aressss1/ecommerce-admin/assets/127649710/f34a5aa6-95fe-496a-8ad8-48cfbe4bae9c)
-![Screenshot (161)](https://github.com/aressss1/ecommerce-admin/assets/127649710/933f4dfb-5207-4574-b0a4-5a6111d14b05)
-![Screenshot (162)](https://github.com/aressss1/ecommerce-admin/assets/127649710/96a81fa2-47b8-49d1-a45d-0ea2b795b1fb)
 
+![prismify-render-1716801793184](https://github.com/aressss1/markethubPro/assets/127649710/c1f7319e-35f1-473a-8d2f-d5fc3a000721)
+![prismify-render-1716801751428](https://github.com/aressss1/markethubPro/assets/127649710/443422a9-f0b3-4776-af7c-1962ed327cd0)
+![prismify-render-1716801730940](https://github.com/aressss1/markethubPro/assets/127649710/0feed22d-376f-40a8-a786-d3d785408c27)
+![prismify-render-1716801710419](https://github.com/aressss1/markethubPro/assets/127649710/bb814597-d472-4b68-8784-9464eda9ac9f)
+![prismify-render-1716801862828](https://github.com/aressss1/markethubPro/assets/127649710/7619a0d2-7be4-4d69-8e79-2e2eabf2f0c3)
+![prismify-render-1716801821748](https://github.com/aressss1/markethubPro/assets/127649710/0caa924a-10a9-427f-9109-2a81cbd67a92)
+![prismify-render-1716801808601](https://github.com/aressss1/markethubPro/assets/127649710/423e4493-1a4e-404b-b0c1-a48a2b6f3840)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
